@@ -1,2 +1,2 @@
 # Selly.gg
-Wrapper for Selly.gg API
+Wrapper for the Selly.gg API
